@@ -14,10 +14,10 @@ Overschool is an approach to educational communities of practice that is built a
 
 ## Core Values
 
-Collaboration and shared understanding over presentation and recall
-Authentic projects and formative assessment over tests, grades, and summative assessment
-Coach/facilatators and learners over teachers and students
-Intrinsic motivation and emergent value over extrinsic motivation and prescribed value
+* Collaboration and shared understanding over presentation and recall
+* Authentic projects and formative assessment over tests, grades, and summative assessment
+* Coach/facilatators and learners over teachers and students
+* Intrinsic motivation and emergent value over extrinsic motivation and prescribed value
 
 ## Who is OVERschool?
 
